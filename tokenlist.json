@@ -1,0 +1,21 @@
+{
+  "name": "TradeX Default List",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://github.com",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xE596E08D7261b2Ae6D94146ffA11be34723d3cEa",
+      "symbol": "TDX",
+      "name": "TradeX",
+      "decimals": 18,
+      "logoURI": "https://github.com/TradeX-tokenofficial/tradextoken-logo/blob/main/tradextransparentlogo.PNG?raw=true"
+    }
+  ]
+}
